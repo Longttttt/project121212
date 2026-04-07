@@ -1,0 +1,6 @@
+#day la cmt không có value ignore file or folder
+#muốn git không theo dõi thư mucjc alo
+alo
+
+# chúng ta sẽ bỏ qua tất cả file
+*.log
