@@ -8,3 +8,6 @@ alo
 # mình muốn bỏ qua file abc.xyz nhưng vãn giữ myfile.xyz
 # sẽ chỉ bỏ qua các file .xyz ở trong git repo
 /*.xyz
+
+#bỏ qua file abc.txt trong filder trong second
+secont_folder/abc.txt
