@@ -4,3 +4,7 @@ alo
 
 # chúng ta sẽ bỏ qua tất cả file
 *.log
+
+# mình muốn bỏ qua file abc.xyz nhưng vãn giữ myfile.xyz
+# sẽ chỉ bỏ qua các file .xyz ở trong git repo
+/*.xyz
